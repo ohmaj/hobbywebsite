@@ -1,0 +1,15 @@
+p {font-family: sans-serif;color : #0000FF;}
+body {background-color: #8888DD;}
+h1 {}
+.navBar li {float:left; margin:10px;}
+.mainLeft {clear:both;width:40%;border-style:solid;border-width:3px;border-color: #000000;padding:10px;background-color: #FFFFFF;}
+.frigatesTable {clear:both; border-style:solid;border-collapse:collapse;background-color: #FF00CC;}
+.frigatesTable td {border-style:solid;padding:3px;}
+.frigatesTable th {border-style:solid;padding:3px; width:70px;}
+.oreTable {clear:both; border-style:solid;border-collapse:collapse;background-color: #DDDD00;}
+.oreTable td {border-style:solid;padding:3px;}
+.oreTable th {border-style:solid;padding:3px; width:70px;}
+.firstColumn {font-weight:bold;}
+.oreTable .firstColumn {font-weight:bold;background-color: #FFCC00;}
+.frigatesTable .firstColumn {font-weight:bold;background-color: #DD00DD;}
+#oreTh {width:160px;}
